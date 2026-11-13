@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="function:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/function_jar</output-path>
+    <root id="archive" name="function.jar">
+      <element id="module-output" name="function" />
+    </root>
+  </artifact>
+</component>
